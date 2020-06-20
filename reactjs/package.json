@@ -4,7 +4,7 @@
   "description": "Digital Khata's Frontend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "react-scripts start"
   },
   "repository": {
@@ -19,18 +19,6 @@
   "author": "Caret Sys",
   "license": "ISC",
   "proxy": "http://localhost:9000",
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
   "bugs": {
     "url": "https://github.com/caretsys/digital-khata/issues"
   },
