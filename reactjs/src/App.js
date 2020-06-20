@@ -1,6 +1,4 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
+import React from "react";
 
-const App = () => (
-	<div>App.js</div>
-)
+const App = () => <div>Hey</div>;
+export default App;
